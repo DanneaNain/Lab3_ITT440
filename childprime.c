@@ -71,7 +71,5 @@ return EXIT_SUCCESS;
 
 void sigint_handler(int sig)
 {
-printf("Process finished.\n");
+printf("Jangan Kacau Saya!!\n");
 }
-
-
