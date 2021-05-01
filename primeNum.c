@@ -52,7 +52,7 @@ if (pid>0)
 
      if(num==1)
      {
-         printf("1 is not a prime number.\n");
+         printf("The number you have enter is 1 and it is not a prime number.\n");
      }
      else
      {
@@ -71,5 +71,5 @@ return EXIT_SUCCESS;
 
 void sigint_handler(int sig)
 {
-printf("Jangan Kacau Saya!!\n");
+printf("Jangan Kacau Saya!\n");
 }
